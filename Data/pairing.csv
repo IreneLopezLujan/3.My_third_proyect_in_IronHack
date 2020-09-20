@@ -1,0 +1,84 @@
+,Wines,Food
+0,Cabernet Sauvignon,Beef
+1, Merlot,Beef
+2, Bordeaux,Beef
+3, red Zinfandel,Beef
+4, Rioja,Beef
+5, Ribera del Duero,Beef
+6, Châteauneuf-du-Pâpe,Beef
+7, Hermitage,Beef
+8, Côte-Rôtie,Beef
+9, Australian Shiraz,Beef
+10, Super Tuscan,Beef
+11, Barbaresco or Barolo,Beef
+12,Bordeaux (especially Médoc),Lamb
+13, Rioja,Lamb
+14, Ribera del Duero,Lamb
+15, Châteauneuf-du-Pâpe,Lamb
+16, Barbaresco or Barolo PorkRiesling,Lamb
+17, Cru Beaujolais,Lamb
+18, Rioja,Lamb
+19, Côtes du Rhône or New World ChardonnayRiesling,Lamb
+20, Cru Beaujolais,Lamb
+21, Rioja,Lamb
+22, Côtes du Rhône or New World ChardonnayBBQ,Lamb
+23,Côtes du Rhône,BBQ
+24, Châteauneuf-du-Pâpe,BBQ
+25, Shiraz,BBQ
+26, Petite Syrah or red Zinfandel,BBQ
+27,California or Australian Chardonnay,Hamburger or Sausage
+28, Riesling,Hamburger or Sausage
+29, dry Vouvray,Hamburger or Sausage
+30, white Burgundy,Hamburger or Sausage
+31, red Burgundy,Hamburger or Sausage
+32, Gigondas,Hamburger or Sausage
+33, Côtes du Rhône,Hamburger or Sausage
+34, Cabernet Sauvignon,Hamburger or Sausage
+35, Cabernet Franc,Hamburger or Sausage
+36, Merlot,Hamburger or Sausage
+37, red Zinfandel or Valpolicella,Hamburger or Sausage
+38,Red Burgundy,Chicken
+39, Pinot Noir or Rioja,Chicken
+40,Pinot Grigio,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+41, Vernaccia,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+42, Barbera,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+43, Dolcetto,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+44, Chianti,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+45, Pinot Noir or Cabernet Franc,"Feathered Game (guinea fowl, pheasant, squab, etc.)"
+46,Chianti,Pasta
+47, Morellino di Scansano,Pasta
+48, Salice Salentino or Montepulciano d'Arbruzzo,Pasta
+49,White Bordeaux,Pasta with Tomato Sauce
+50, Meursault or other good white Burgundy,Pasta with Tomato Sauce
+51,Rich Australian Chardonnay or Semillon,"Fresh Water or Lighter Fish (trout, sole, etc.)"
+52, Pinot Gris,"Fresh Water or Lighter Fish (trout, sole, etc.)"
+53, Gewürztraminer,"Fresh Water or Lighter Fish (trout, sole, etc.)"
+54, Pinot Noir or Beaujolais,"Fresh Water or Lighter Fish (trout, sole, etc.)"
+55,Muscadet,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+56, Vinho Verde,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+57, Verdicchio,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+58, Sauvignon Blanc,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+59, Albarinho,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+60, Chablis or Champagne,"Shellfish (clams, mussels, scallops, oysters, etc.)"
+61,Semillon,Lobster
+62, white Burgundy,Lobster
+63, Champagne or Sauternes,Lobster
+64,Rich Chardonnay,Salmon
+65, white Burgundy,Salmon
+66, Pinot Gris,Salmon
+67, Viognier,Salmon
+68, Beaujolais,Salmon
+69, Chinon,Salmon
+70, California or Oregon Cabernet Franc or Pinot Noir,Salmon
+71,Champagne or Riesling,Smoked Salmon or other Smoked Fish
+72,Beaujolais,"Soft, Creamy Cheeses with washed rind (brie, camembert, etc.)"
+73, North American Pinot Noir or well-aged St.-Emilion,"Soft, Creamy Cheeses with washed rind (brie, camembert, etc.)"
+74,Cabernet Sauvignon,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+75, red Zinfandel,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+76, Merlot,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+77, Rioja,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+78, ruby Port,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+79, Fino or Manzanilla Sherry,"Hard, Aged Cheeses (cheddar, aged gouda, manchego, etc.)"
+80,Sauvignon Blanc,Goat's Cheese
+81, Sancerre,Goat's Cheese
+82, Vouvray or white Bordeaux,Goat's Cheese
